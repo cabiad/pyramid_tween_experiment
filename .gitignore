@@ -2,8 +2,8 @@
 *.pyc
 /TweenTester.egg-info
 /TweenTester/TweenTester.sqlite
-/bin
-/include
-/lib
-/local
-/share
+/TweenTester/bin
+/TweenTester/include
+/TweenTester/lib
+/TweenTester/local
+/TweenTester/share
