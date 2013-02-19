@@ -4,4 +4,4 @@ bootstrap:
 
 .PHONY: rundev
 rundev:
-	@make -C TweenTester bootstrap
+	@make -C TweenTester rundev
