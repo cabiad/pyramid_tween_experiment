@@ -17,7 +17,7 @@ bootstrap:
 	@$(VIRTUALENV) -p $(SYSTEM_PYTHON) --distribute .
 	@$(INSTALL) -r requirements/dev.txt
 	@$(PYTHON) setup.py develop
-
+	@bin/initialize_TweenTester_db development.ini
 
 .PHONY: rundev
 rundev:
