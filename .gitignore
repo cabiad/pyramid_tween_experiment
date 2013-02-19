@@ -1,6 +1,6 @@
 .*.swp
 *.pyc
-/TweenTester.egg-info
+/TweenTester/TweenTester.egg-info
 /TweenTester/TweenTester.sqlite
 /TweenTester/bin
 /TweenTester/include
